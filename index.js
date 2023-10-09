@@ -1,5 +1,3 @@
-let companyName = 'Scuber';
-
-const mostProfitableNeighborhood = 'Upper East Side';
-
-var companyCeo = 'Susan Smith';
+const companyName = 'Scuber';
+let mostProfitableNeighborhood = 'Chelsea';
+let companyCeo = 'Susan Smith';
